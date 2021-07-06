@@ -24,3 +24,11 @@
 
 # MicroTask Queue
 * https://pomb.us/build-your-own-react/Microtask queue
+
+# good tools
+* google analytics
+* logs (winston)
+* Sentry
+* tailwind css
+* typescript
+* newrelic
