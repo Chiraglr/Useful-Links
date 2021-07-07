@@ -5,6 +5,7 @@
 
 ## Typescript
 * https://github.com/typescript-cheatsheets/react
+* https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/
 
 ## React Query
 * https://react-query.tanstack.com/guides/placeholder-query-data
