@@ -32,6 +32,9 @@
 ## Logging
 * https://www.notion.so/Logging-Neeraj-Sir-Notes-8beb63991b6d4018b8a32c45dab35899
 
+## NPM
+* https://overreacted.io/npm-audit-broken-by-design/
+
 ## good tools
 * google analytics
 * logs (winston)
