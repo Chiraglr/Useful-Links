@@ -41,6 +41,12 @@
 ## Performance
 * script loading priorities: https://addyosmani.com/blog/script-priorities/
 
+## SEO
+* schema: https://schema.org/
+
+## Bookmarks
+* developer roadmap: https://github.com/kamranahmedse/developer-roadmap
+
 ## good tools
 * google analytics
 * logs (winston)
