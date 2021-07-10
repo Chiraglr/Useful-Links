@@ -38,6 +38,9 @@
 ## NPM
 * https://overreacted.io/npm-audit-broken-by-design/
 
+## Performance
+* script loading priorities: https://addyosmani.com/blog/script-priorities/
+
 ## good tools
 * google analytics
 * logs (winston)
