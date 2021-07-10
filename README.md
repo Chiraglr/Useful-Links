@@ -47,6 +47,9 @@
 ## Bookmarks
 * developer roadmap: https://github.com/kamranahmedse/developer-roadmap
 
+## JS
+* https://javascript.info/
+
 ## good tools
 * google analytics
 * logs (winston)
