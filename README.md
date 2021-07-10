@@ -6,6 +6,9 @@
 ## CDN
 * https://anothersysadmin.wordpress.com/2008/04/22/x-cache-and-x-cache-lookup-headers-explained/
 
+## Nextjs
+* Dynamic-import/code-splitting: https://nextjs.org/docs/advanced-features/dynamic-import
+
 ## Typescript
 * https://github.com/typescript-cheatsheets/react
 * https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/
