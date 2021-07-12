@@ -38,6 +38,9 @@
 ## NPM
 * https://overreacted.io/npm-audit-broken-by-design/
 
+## good npm packages
+* react-router-sitemap
+
 ## Performance
 * script loading priorities: https://addyosmani.com/blog/script-priorities/
 
