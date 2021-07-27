@@ -53,6 +53,9 @@
 ## JS
 * https://javascript.info/
 
+## Module import/export
+* https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript/
+
 ## good tools
 * google analytics
 * logs (winston)
